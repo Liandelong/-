@@ -47,6 +47,7 @@ namespace 点名
             for (int i = 0; i < lian.Length; i++)
             {
                 path.Add(lian[i]);
+
             }
             Random de = new Random();
             int t=de.Next(0, 4);

@@ -25,12 +25,12 @@ namespace 点名
             if (button1.Text == "随机抽取")
             {
                 timer1.Enabled = true;
-                button1.Text = "暂停";
+                button1.Text = "暂停324";
             }
             else
             {
                 timer1.Enabled = false;
-                button1.Text = "随机抽取";
+                button1.Text = "随机抽取234";
             }
             //path = new List<string>();
             //string[] lian= Directory.GetFiles(@"\image");
